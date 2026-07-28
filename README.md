@@ -1,7 +1,7 @@
 # OmniScope
 
 [![arXiv](https://img.shields.io/badge/arXiv-2607.23193-b31b1b.svg)](https://arxiv.org/abs/2607.23193)
-[![License](<https://img.shields.io/badge/License-Apache%202.0-blue.svg>)](LICENSE)
+![](https://img.shields.io/badge/Task-OmniModel-blue) [![Arxiv](https://img.shields.io/badge/Web-Project_Page-yellow)](https://video-rag.github.io/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-green.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0-orange.svg)](https://pytorch.org/)
 
