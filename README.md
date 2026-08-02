@@ -158,9 +158,9 @@ OmniScope/
 If you find OmniScope useful in your research, please consider citing our paper:
 
 ```bibtex
-@article{omniscope2025,
-  title={OmniScope: Modality-decoupled Token Compression for Efficient Omnimodal Video Understanding},
-  author={Su, Jinsen and Luo, Yongdong and Ma, Yuexiao and Hu, Yibo and Jin, Meiguang and Zheng, Xiaowu},
+@article{su2026omniscope,
+  title={OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models},
+  author={Su, Jinsen and Luo, Yongdong and Ma, Yuexiao and Hu, Yibo and Jin, Meiguang and Zheng, Xiawu},
   journal={arXiv preprint arXiv:2607.23193},
   year={2026}
 }
